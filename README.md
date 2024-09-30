@@ -34,11 +34,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Skills and Stuff</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,webstorm,pycharm" />
-    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,linux,django" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,django,docker,linux,git,cpp" /><br>
 </div>
 
 <br/>
