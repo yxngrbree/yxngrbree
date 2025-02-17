@@ -29,7 +29,7 @@
 
 </div>
  
-<h2 align="center">Skills and Stuff</h2>
+<h2 align="center">Skills and Toolkit</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,figma,vscode,xampp" &perline=3 />
     <img src="https://skillicons.dev/icons?i=python,pycharm,c,cpp,clion,r,linux,git,github,bash,kali"&perline=3 />
