@@ -18,8 +18,6 @@
 
 ⚡ I'm interested in **software and web development**
 
-
-
  </div>
  
 <div align="center"> 
@@ -30,16 +28,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 
 </div>
-
- <hr/>
  
 <h2 align="center">Skills and Stuff</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode" &perline=3 />
     <img src="https://skillicons.dev/icons?i=python,c,cpp,r,linux,git"&perline=3 />
 </div>
-
-<br/>
-<hr/>
 
 
