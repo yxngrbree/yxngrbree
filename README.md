@@ -37,8 +37,8 @@
 <h2 align="center">Skills and Stuff</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vscode" />
-    <img src="https://skillicons.dev/icons?i=python,django,docker,linux,git,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode &perline=3" />
+    <img src="https://skillicons.dev/icons?i=python,docker,linux,git,cpp,c" /><br>
 </div>
 
 <br/>
