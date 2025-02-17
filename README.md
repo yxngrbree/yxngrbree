@@ -28,8 +28,7 @@
   </a>
   <a href="https://www.linkedin.com/in/arbri-metaj-7b863721a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  </a>
+
 </div>
 
  <hr/>
@@ -37,8 +36,8 @@
 <h2 align="center">Skills and Stuff</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode &perline=3" />
-    <img src="https://skillicons.dev/icons?i=python,docker,linux,git,cpp,c" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode" &perline=3 />
+    <img src="https://skillicons.dev/icons?i=python,docker,linux,git,cpp,c &perline=3" />
 </div>
 
 <br/>
