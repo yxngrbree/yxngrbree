@@ -6,8 +6,6 @@
 
 <h3 align="center">A Computer Science student from Albania</h3>
 
-<br/>
-
 <div align="center">
  
  🔭 I’m currently working on **Personal Website**
