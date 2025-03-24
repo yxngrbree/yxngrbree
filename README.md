@@ -8,13 +8,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Personal Website**
+ 🔭 I’m currently working on **Things**
  
  🌱 I’m currently learning **Things**
 
 💬 Ask me about **Python**
 
-⚡ I'm interested in **software and web development**
+⚡ I'm interested in **Software and Web Development**
 
  </div>
 <div align="center"> 
