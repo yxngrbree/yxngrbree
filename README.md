@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Things**
  
- 🌱 I’m currently learning **Things**
+ 🌱 I’m currently learning **Rust**
 
 💬 Ask me about **Python**
 
