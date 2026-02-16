@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Things**
+ 🔭 I’m currently studying
  
- 🌱 I’m currently learning **Rust**
+ 🌱 I’m learning **Rust**
 
 💬 Ask me about **Python**
 
