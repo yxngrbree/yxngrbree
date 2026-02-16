@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying
+ 🔭 I’m currently **Studying**
  
  🌱 I’m learning **Rust**
 
