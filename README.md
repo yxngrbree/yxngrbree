@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yxngrbree.ycngrbree" >
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400&lines=Hi+There!+👋;+I'm+Arbri+Metaj!;" >
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Arbri+Metaj!;" >
 </h1>
 
 <h3 align="center">A Computer Science student from Albania</h3>
