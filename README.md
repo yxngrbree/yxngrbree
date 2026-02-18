@@ -9,9 +9,7 @@
 <div align="center">
  
  🔭 I’m currently **Studying**
- 
  🌱 I’m learning **Rust**
-
 💬 Ask me about **Python**
 
 ⚡ I'm interested in **Software and Web Development**
