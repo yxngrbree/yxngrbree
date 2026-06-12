@@ -12,7 +12,7 @@
  🌱 I’m learning **Rust**
 💬 Ask me about **Python**
 
-⚡ I'm interested in **Software and Web Development**4
+⚡ I'm interested in **Software and Web Development**
  </div>
 <div align="center"> 
   <a href="mailto:arbrimetaj2004@gmail.com">
